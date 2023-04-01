@@ -1,4 +1,4 @@
-## Christoforos Karanaikas
+## Christoforos Karanikas
 ## My GitHub profile
 
 
