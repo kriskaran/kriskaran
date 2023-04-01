@@ -6,8 +6,8 @@
 Forest Service of Agia, [Ministry of Environmnet and Energy](https://ypen.gov.gr/perivallon/dasi/geniki-grammateia-dason/)
 
 ## Softwares
-QGIS
-Google Earth Engine
+- QGIS
+- Google Earth Engine
 
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/ChristofKar?style=social)](https://twitter.com/ChristofKar)
