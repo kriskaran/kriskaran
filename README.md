@@ -9,9 +9,6 @@ Forest Service of Agia, [Ministry of Environmnet and Energy](https://ypen.gov.gr
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/christoforos-karanikas-4836b43b/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kriskaran.kriskaran)
 
-[](![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FChristofKar))
-
-![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FChristofKar)
 
 <!--
 **kriskaran/kriskaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
