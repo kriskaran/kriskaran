@@ -1,5 +1,5 @@
 ### Hi there 👋
-# My GitHub profile
+## My GitHub profile
 
 <!--
 **kriskaran/kriskaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
