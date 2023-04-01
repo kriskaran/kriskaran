@@ -7,7 +7,6 @@ Forest Service of Agia, [Ministry of Environmnet and Energy](https://ypen.gov.gr
 
 
 
-![[Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FChristofKar)
 <!--
 **kriskaran/kriskaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
